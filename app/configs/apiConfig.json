@@ -1,0 +1,8 @@
+{
+	"ACCOUNT_BASE_URL": "http://localhost:3001/account",
+	"ACCOUNT_REFRESH_TOKEN_URL": "/refresh",
+	"ACCOUNT_LOGIN_URL": "/login",
+	"ACCOUNT_REGISTER_URL": "/register",
+	"ACCOUNT_FORGOT_PASSWORD_URL": "/forgot",
+	"ACCOUNT_MY_ACCOUNT_URL": "/myacc"
+}
